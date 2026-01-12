@@ -1,0 +1,14 @@
+C:\usr\code\Structure\Structure.Console\bin\Debug\net9.0\Structure.Console.exe
+C:\usr\code\Structure\Structure.Console\bin\Debug\net9.0\Structure.Console.deps.json
+C:\usr\code\Structure\Structure.Console\bin\Debug\net9.0\Structure.Console.runtimeconfig.json
+C:\usr\code\Structure\Structure.Console\bin\Debug\net9.0\Structure.Console.dll
+C:\usr\code\Structure\Structure.Console\bin\Debug\net9.0\Structure.Console.pdb
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.AssemblyInfoInputs.cache
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.AssemblyInfo.cs
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.csproj.CoreCompileInputs.cache
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.dll
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\refint\Structure.Console.dll
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.pdb
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\Structure.Console.genruntimeconfig.cache
+C:\usr\code\Structure\Structure.Console\obj\Debug\net9.0\ref\Structure.Console.dll
